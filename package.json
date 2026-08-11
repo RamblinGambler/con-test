@@ -1,0 +1,13 @@
+{
+  "name": "conexus-build-target",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A small dependency-free repo used to verify Conexus build runs.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
